@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/topological_graphs
 excerpt: 'Paper on the Reconstruction of Topological Graphs'
-date: 2025-04
+date: 2025-04-01
 venue: 'Proceedings of the Royal Society of Edinburgh Section A'
 slidesurl: 
 paperurl: 'https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/reconstruction-of-topological-graphs-and-their-hilbert-bimodules/EAACAA5C7F7AF783A68FCA8A0FF3AEC3#article'
