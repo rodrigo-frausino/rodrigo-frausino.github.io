@@ -2,8 +2,8 @@
 title: "Quasi-invariant measures for generalized approximately proper equivalence relations"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/quasi_invariant_measures
+excerpt:
 date: 2024-10-15
 venue: 'Journal of Mathematical Analysis and Applications'
 slidesurl: 
