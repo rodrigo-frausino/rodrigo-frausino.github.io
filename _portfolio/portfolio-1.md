@@ -1,6 +1,6 @@
 ---
 title: "Customer Segmentation"
-excerpt: "Customer Segmentation Notebook<br/><img src='/images/500x300.png'>"
+excerpt: "Customer Segmentation Notebook<br/><img src='/images/Customer-segmentation.png'>"
 collection: portfolio
 ---
 
