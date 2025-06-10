@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Rodrigo Frausino / Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Rodrigo Frausino"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "rodrigo-frausino/rodrigo-frausino.github.io"
 author:
   # Biographic information
   avatar           : "1700004763097.jpg"
-  name             : "Dr.Rodrigo Frausino"
+  name             : "Rodrigo Frausino PhD."
   pronouns         : # example: "she/her"  
   bio              : "A Physicist, a Mathematican and a Data Scientist"
   location         : "Brazil"
