@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-This the the Homepage of the personal website of Rodrigo Frausino, is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. 
+Welcome to the personal website of Rodrigo Frausino — Data Scientist, Mathematician, and Physicist.
+Here you'll find a bit about me, some of my projects, and thoughts on topics like mathematics, physics, and data science — or anything else I feel like sharing on the blog. It's mostly science and data-related, but you get the idea.

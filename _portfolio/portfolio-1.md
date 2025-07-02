@@ -1,5 +1,6 @@
 ---
 title: "Customer Segmentation"
+date: 2025-01-01
 excerpt: "Customer Segmentation Notebook<br/><img src='/images/Customer-segmentation.png'>"
 collection: portfolio
 ---

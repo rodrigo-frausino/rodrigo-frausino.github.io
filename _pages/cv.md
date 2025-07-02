@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, Wollongong University ,2024
+* M.S.c in Applied Mathematics , University of São Paulo, 2018
+* B.S. in Physics, University of São Paulo, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* December 2024 - Present: Senior Data Analyst
+  * Fast Shop S/A
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
