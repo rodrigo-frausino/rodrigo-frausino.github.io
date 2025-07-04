@@ -1,6 +1,6 @@
 ---
 title: "Combinatorial Interpretation of the Fibonacci Sequence"
-date: 2025-07-03
+date: 2025-07-07
 permalink: /posts/2025/07/combinatorial_fibonacci/
 tags:
   - fibonacci sequence
