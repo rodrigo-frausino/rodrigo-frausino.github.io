@@ -1,7 +1,7 @@
 ---
 title: "Car Fleet - Time Series Analysis"
 date: 2025-07-01
-excerpt: "This project presents a time series analysis of an allocated car fleet dataset. Four forecasting models were evaluated to identify trends and patterns over time. The notebook is written in Portuguese.<br/><div align='center'><img src='/images/car.jpg'></div>"
+excerpt: "This project presents a time series analysis of an allocated car fleet dataset. Four forecasting models were evaluated to identify trends and patterns over time. The notebook is written in Portuguese.<br/><img src='/images/car.jpg'>"
 collection: portfolio
 ---
 

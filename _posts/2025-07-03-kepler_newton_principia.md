@@ -13,3 +13,5 @@ This post is one that I have already done in my Linkedin, but I would like to le
 
 While going through some of my old notes, I came across material on a geometric proof of Kepler's Second Law of planetary motion, inspired by Isaac Newton’s approach. Since I was looking for an alternative to LaTeX and wanted to try Typst, I thought—why not turn my writing into a PDF?
 This proof is primarily based on a book by Spivak, which itself follows Newton’s proof in the Principia. References can be found within the PDF.
+
+<iframe src="/files/newton_kepler_second_law.pdf" width="100%" height="800px"></iframe>
