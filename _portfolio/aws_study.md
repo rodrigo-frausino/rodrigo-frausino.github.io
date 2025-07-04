@@ -1,5 +1,6 @@
 ---
 title: "AWS Pipeline Study"
+date: 2024-10-01
 excerpt: "An exploratory study of the AWS environment, inspired by an Alura course and restructured into a hands-on Jupyter Notebook format.<br/><img src='/images/AWS.png'>"
 collection: portfolio
 ---
