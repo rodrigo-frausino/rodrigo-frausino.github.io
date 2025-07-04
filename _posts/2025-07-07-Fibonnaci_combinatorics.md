@@ -8,11 +8,13 @@ tags:
   - math
 ---
 
-To inaugurate this blog, let's begin with a concise yet insightful topic: the Fibonacci Sequence. This post is based in a book called Proofs the Really Count[^1].
+To inaugurate this blog, let's begin with a concise yet insightful topic: the Fibonacci Sequence. 
+
+This post is based in a book called Proofs the Really Count[^1].
 
 [^1]: __Proofs that Really Count__ - Arthur Benjamin and Jennifer Quinn. 
 
-Most people know the Fibonacci sequence \\((F_n)_{n \geq 0}\\), defined recursively by \\(F_n = F_{n-1} + F_{n-2}\\), with initial conditions \\(F_0 = 0\\) and \\(F_1 = 1\\). This produces the sequence \\((0, 1, 1, 2, 3, 5, \ldots)\\). While the definition may seem arbitrary, the Fibonacci sequence is deeply connected to a classic combinatorial problem: counting the number of ways to tile a one-dimensional board using squares (covering 1 unit) and dominoes (covering 2 units).
+Most people know the Fibonacci sequence \\( (F_n)_{n \geq 0} \\), defined recursively by \\( F_n = F_{n-1} + F_{n-2} \\), with initial conditions \\(F_0 = 0\\) and \\(F_1 = 1\\). This produces the sequence \\((0, 1, 1, 2, 3, 5, \ldots)\\). While the definition may seem arbitrary, the Fibonacci sequence is deeply connected to a classic combinatorial problem: counting the number of ways to tile a one-dimensional board using squares (covering 1 unit) and dominoes (covering 2 units).
 
 Let’s define an _\\(n\\)-board_ as a one-dimensional board of length \\(n\\). For example, the following image illustrates a 14-board tiled with squares and dominoes:
 
