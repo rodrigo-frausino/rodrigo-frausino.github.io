@@ -1,6 +1,6 @@
 ---
 title: "Combinatorial Interpretation of the Fibonacci Sequence"
-date: 2025-07-06
+date: 2025-07-07
 permalink: /posts/2025/07/combinatorial_fibonacci/
 tags:
   - fibonacci sequence
@@ -18,7 +18,10 @@ Most people know the Fibonacci sequence $$ (F_n)_{n \geq 0} $$, defined recursiv
 
 Let’s define an _\\(n\\)-board_ as a one-dimensional board of length \\(n\\). For example, the following image illustrates a 10-board tiled with squares and dominoes:
 
-![Tiling of a 10-board with squares and dominoes](../images/fibonacci_tiling_10_board.png)
+<img src='/images/fibonacci_tiling_10_board.png' alt='Tiling of a 10-board with squares and dominoes'>
+
+*Figure: An example tiling of a 10-board using squares (covering 1 unit) and dominoes (covering 2 units). Each arrangement corresponds to a unique sequence of 1's and 2's that sum to 10.*
+
 
 This tiling problem is equivalent to counting the number of sequences of 1's and 2's whose sum is \\(n\\). Each such sequence represents a way to cover the board, where a 1 corresponds to a square and a 2 to a domino.
 
