@@ -25,7 +25,7 @@ author:
   avatar           : "1700004763097.jpg"
   name             : "Rodrigo Frausino PhD"
   pronouns         : # example: "she/her"  
-  bio              : "A Physicist, a Mathematican and a Data Scientist"
+  bio              : "A Physicist, a Mathematician and a Data Scientist"
   location         : "Brazil"
   employer         : "FastShop S/A"
   uri              : # URL
@@ -88,7 +88,7 @@ publication_category:
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 120 # not using since a lot of my blog posts are pdfs.
+words_per_minute         : 50 # not using since a lot of my blog posts are pdfs.
 future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page

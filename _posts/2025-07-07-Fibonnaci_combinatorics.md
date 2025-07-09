@@ -10,7 +10,7 @@ tags:
 
 To inaugurate this blog, let's begin with a concise yet insightful topic: the Fibonacci Sequence. 
 
-This post is based in a book called Proofs the Really Count[^1].
+This post is based in a book called Proofs that Really Count[^1].
 
 [^1]: __Proofs that Really Count__ - Arthur Benjamin and Jennifer Quinn. 
 
