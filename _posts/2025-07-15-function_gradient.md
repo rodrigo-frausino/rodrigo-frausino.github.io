@@ -25,17 +25,13 @@ To build intuition, let’s consider the 2D case with variables $$x$$ and $$y$$.
 
 Suppose you’re **standing on a hill** at the point $$(x_0, y_0) \in \mathbb{R}^2$$, and you want to ascend as rapidly as possible. The elevation at any point is given by a function $$f(x, y)$$.
 
-Let’s visualize this situation in two complementary ways:
-
-- **3D Surface Plot:** In this visualization, the hill is represented as a three-dimensional surface, and the gradient vector is shown as an arrow on the surface. This makes it clear how the gradient points in the direction where the surface rises most steeply. Just as a function of one variable can be plotted as a curve in two dimensions, a function of two variables can be visualized as a surface in three dimensions, helping us see how changes in both variables affect the function's value.
-
-<img src='/images/gradient3d.png' alt='3D plot of a hill with gradient vector'>
+<img src='/images/gradient3d.png' alt='3D plot of a hill'>
 
 - **2D Level Curves (Contour Plot):** By projecting the surface onto a plane, we can use level curves (contours of constant elevation) to see how the gradient behaves in two dimensions.
 
 <img src='/images/gradient2d.png' alt='2D contour plot with gradient vector'>
 
-In both visualizations, the gradient vector at $$(x_0, y_0)$$ points in the direction where the elevation increases most rapidly.
+The gradient vector at $$(x_0, y_0)$$ not only points in the direction of the steepest ascent—where the function increases most rapidly—but is also always **perpendicular** (orthogonal) to the tangent of any level curve passing through that point. This means that if you walk along a level curve (where the function value stays constant), you are moving in a direction where the gradient has no component; the function does not increase or decrease. In contrast, moving directly in the direction of the gradient gives you the fastest possible increase in the function's value.
 
 To see mathematically why the gradient points in the direction of steepest ascent, let’s compute the **rate of change of the function** as you move away from $$(x_0, y_0)$$ in a particular direction. Suppose you pick a direction given by the unit vector $$\vec{v} = (a, b)$$. If you take a small step of size $$t$$ in this direction, your new position becomes: 
 
