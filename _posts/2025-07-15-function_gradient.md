@@ -25,7 +25,7 @@ To build intuition, let’s consider the 2D case with variables $$x$$ and $$y$$.
 
 Suppose you’re **standing on a hill** at the point $$(x_0, y_0) \in \mathbb{R}^2$$, and you want to ascend as rapidly as possible. The elevation at any point is given by a function $$f(x, y)$$.
 
-<img src='/images/gradient3d.png' alt='3D plot of a hill'>
+
 
 - **2D Level Curves (Contour Plot):** By projecting the surface onto a plane, we can use level curves (contours of constant elevation) to see how the gradient behaves in two dimensions.
 
