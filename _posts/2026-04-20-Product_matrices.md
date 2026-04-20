@@ -60,9 +60,7 @@ So everything reduces to knowing the vectors $$T(e_j)$$. This is a recurring res
 Now define a matrix $$A$$ whose **columns** are exactly these images:
 $$
 A = \begin{bmatrix}
-| & & | \
-T(e_1) & \cdots & T(e_n) \
-| & & |
+T(e_1) & \cdots & T(e_n)
 \end{bmatrix}
 $$
 
