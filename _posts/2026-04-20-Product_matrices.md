@@ -114,10 +114,10 @@ $$
 z_i = \sum_{j=1}^p \left( \sum_{k=1}^n A_{ik} B_{kj} \right ) x_j
 $$
 
-This shows that the matrix representing the composition $$A \circ B$$ is the matrix $$C$$ with entries $$C_{ij} = \sum_{k=1}^n A_{ik} B_{kj}$$—which is exactly the definition of the matrix product.
+This shows that the matrix representing the composition $$A \circ B$$ is the matrix $$C$$ with entries $$C_{ij} = \sum_{k=1}^n A_{ik} B_{kj}$$, which is exactly the definition of the matrix product.
 
 **Conclusion:**  
-There are two main ideas I want to pass in this post. First, that Matrix–vector multiplication is forced by linearity. Second, Matrix–matrix multiplication is forced by composition. Therefore, Matrix multiplication is not a definition we chose—it is the only rule compatible with how linear transformations must behave.
+There are two main ideas I want to pass in this post. First, that Matrix–vector multiplication is forced by linearity. Second, Matrix–matrix multiplication is forced by composition. Therefore, Matrix multiplication is not a definition we chose, fit is the only rule compatible with how linear transformations must behave.
 
 
 
